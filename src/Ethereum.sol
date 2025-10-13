@@ -44,23 +44,23 @@ library Ethereum {
     address internal constant VAT         = 0x35D1b3F3D7966A1DFe207aa4514C12a259A0492B;
 
     /******************************************************************************************************************/
-    /*** GroveDAO Addresses                                                                                         ***/
+    /*** ObexDAO Addresses                                                                                         ***/
     /******************************************************************************************************************/
 
-    address internal constant GROVE_PROXY = 0x1369f7b2b38c76B6478c0f0E66D94923421891Ba;
+    address internal constant OBEX_PROXY = 0x8be042581f581E3620e29F213EA8b94afA1C8071;
 
     /******************************************************************************************************************/
-    /*** Grove Allocation System Addresses                                                                          ***/
+    /*** Obex Allocation System Addresses                                                                          ***/
     /******************************************************************************************************************/
 
-    address internal constant ALLOCATOR_BUFFER   = 0x629aD4D779F46B8A1491D3f76f7E97Cb04D8b1Cd;
+    address internal constant ALLOCATOR_BUFFER   = 0x51E9681D7a05abFD33EfaFd43e5dd3Afc0093F1D;
     address internal constant ALLOCATOR_ORACLE   = 0xc7B91C401C02B73CBdF424dFaaa60950d5040dB7;
     address internal constant ALLOCATOR_REGISTRY = 0xCdCFA95343DA7821fdD01dc4d0AeDA958051bB3B;
     address internal constant ALLOCATOR_ROLES	 = 0x9A865A710399cea85dbD9144b7a09C889e94E803;
-    address internal constant ALLOCATOR_VAULT	 = 0x26512A41C8406800f21094a7a7A0f980f6e25d43;
+    address internal constant ALLOCATOR_VAULT	 = 0xF275110dFE7B80df66a762f968f59B70BABE2b29;
 
     /******************************************************************************************************************/
-    /*** Grove Liquidity Layer Addresses                                                                            ***/
+    /*** Obex Liquidity Layer Addresses                                                                            ***/
     /******************************************************************************************************************/
 
     address internal constant ALM_CONTROLLER  = 0xB111E07c8B939b0Fe701710b365305F7F23B0edd;
