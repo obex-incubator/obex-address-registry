@@ -63,9 +63,9 @@ library Ethereum {
     /*** Obex Liquidity Layer Addresses                                                                            ***/
     /******************************************************************************************************************/
 
-    address internal constant ALM_CONTROLLER  = 0xB111E07c8B939b0Fe701710b365305F7F23B0edd;
-    address internal constant ALM_PROXY       = 0x491EDFB0B8b608044e227225C715981a30F3A44E;
-    address internal constant ALM_RATE_LIMITS = 0x5F5cfCB8a463868E37Ab27B5eFF3ba02112dF19a;
+    address internal constant ALM_CONTROLLER  = 0xF2bB664f16E2df4b0c71F9d2cFc386504E795b7A;
+    address internal constant ALM_PROXY       = 0xb6dD7ae22C9922AFEe0642f9Ac13e58633f715A2;
+    address internal constant ALM_RATE_LIMITS = 0x81f8f5306cF80655Edff78f89860a8D89118E150;
 
     address internal constant ALM_FREEZER = 0xB0113804960345fd0a245788b3423319c86940e5;
     address internal constant ALM_RELAYER = 0x0eEC86649E756a23CBc68d9EFEd756f16aD5F85f;
