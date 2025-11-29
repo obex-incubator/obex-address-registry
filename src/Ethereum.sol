@@ -49,6 +49,9 @@ library Ethereum {
 
     address internal constant OBEX_PROXY = 0x8be042581f581E3620e29F213EA8b94afA1C8071;
 
+    /// @dev Star Guard Vote Link: https://vote.sky.money/executive/template-executive-vote-launch-starguards-october-monthly-settlement-cycle-and-treasury-management-function-october-ranked-delegate-compensation-atlas-core-development-compensation-payment-to-gnosis-add-allocator-obex-a-to-sp-beam-prime-agent-proxy-spells-november-27-2025
+    address internal constant OBEX_STAR_GUARD = 0x987f1C31f9935e9926555BcFB76516bb2EcEccaD;
+
     /******************************************************************************************************************/
     /*** Obex Allocation System Addresses                                                                          ***/
     /******************************************************************************************************************/
